@@ -1,6 +1,6 @@
 # Bit Manipulation Operations
 
-This repository contains implementations of basic bit manipulation operations in [your programming language]. These operations are essential for efficiently working with binary data and solving various computational problems.
+This repository contains implementations of basic bit manipulation operations in java. These operations are essential for efficiently working with binary data and solving various computational problems.
 
 ## Operations Covered
 
