@@ -22,6 +22,9 @@ Contains a collection of assorted Java questions typically asked in coding asses
 ### 5. `strings`
 Includes Java programs related to **string manipulation and logic building**, such as checking anagram, reversing strings, string comparison, and pattern-related problems.
 
+### 6. `arr`
+Includes problems based on the **Array** .
+
 ---
 
 ## 🛠️ Technologies Used
